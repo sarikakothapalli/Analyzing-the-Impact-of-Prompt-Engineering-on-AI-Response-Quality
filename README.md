@@ -20,8 +20,8 @@ The study is based on three systems:
 - Evaluation metrics help identify strengths and weaknesses in responses  
 
 ## 📄 Research Paper
-You can view the full research paper here:  
-[View Paper](./Impact of Prompt Engineering on AI Response Quality.docx)
+You can view the Research Paper here:
+[View Paper](./Impact-of-Prompt-Engineering-on-AI-Response-Quality.pdf)
 
 ## 🛠️ Technologies Used
 - React  
